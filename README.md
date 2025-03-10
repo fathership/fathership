@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Aydincan @fathership
-- 👀 I’m interested in iOS development
+- 👀 I’m interested in digital products
 - 🌱 I’m currently learning Swift & SwiftUI
 - 💞️ I’m looking to collaborate on iOS projects
 - 📫 How to reach me ataberk[at]gmail
